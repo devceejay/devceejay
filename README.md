@@ -16,7 +16,7 @@ Currently honing my skills in HTML, CSS, JavaScript through guided learning reso
 
 **Tools:**
 
- <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> 
+ <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img width="100" height="100" src="https://img.icons8.com/ios-glyphs/100/github.png" alt="github"/>
 
 ##  Find Me On:
 
@@ -25,7 +25,7 @@ Currently honing my skills in HTML, CSS, JavaScript through guided learning reso
 
 ## Contact Me:
 
-<a href="mailto:chijioke.nwabasili2021@gmail.com"> <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/> </a>
+<a href="mailto:chijioke.nwabasili2021@gmail.com"> <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/> </a> <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 
 ## Collaboration:
 
