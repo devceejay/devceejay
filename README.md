@@ -16,7 +16,7 @@ Currently honing my skills in HTML, CSS, JavaScript through guided learning reso
 
 **Tools:**
 
- <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img width="100" height="100" src="https://img.icons8.com/ios-glyphs/100/github.png" alt="github"/> <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+ <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img width="48" height="48" src="https://img.icons8.com/ios-glyphs/48/github.png" alt="github"/> <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 
 ##  Find Me On:
 
