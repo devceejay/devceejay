@@ -10,7 +10,7 @@ Currently honing my skills in HTML, CSS, JavaScript through guided learning reso
 
 ## Technologies & Tools:
 
-- **Languages**: HTML, CSS, JavaScript
+- **Languages**: <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 
 - **Tools**: Git, GitHub, VS Code
 
