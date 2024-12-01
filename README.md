@@ -4,7 +4,9 @@ Welcome to my GitHub profile! This is an expanse where i showcase my coding jour
 
 ## About Me:
 
-My name is Chijioke, an aspiring Front-end Web Developer with a strong passion for creating web experiences that are both functional and visually appealing. I'm currently honing my skills in HTML, CSS, JavaScript through structured / guided learning resources and building hands-on projects. My aim is to grow into a proficient developer who can contribute to impactful projects and work with others to create meaningful digital experiences.
+My name is Chijioke, an aspiring Front-end Web Developer with a strong passion for creating web experiences that are both functional and visually appealing. 
+
+I'm currently honing my skills in HTML, CSS, JavaScript through structured / guided learning resources and building hands-on projects. My aim is to grow into a proficient developer who can contribute to impactful projects and work with others to create meaningful digital experiences.
 
 I’m open to connecting with like-minded developers and collaborating on professional projects that make a difference. Feel free to reach out, Let’s build the web of tomorrow! 🌐
 
