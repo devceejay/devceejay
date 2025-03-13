@@ -4,7 +4,7 @@ Welcome to my GitHub profile! This is an expanse where I showcase my coding jour
 
 ## About Me:
 
-I'm Chijioke Nwabasili, a Front-end Web Developer based in Nigeria with a keen eye for design and a solid foundation in HTML, CSS, and a growing expertise in JavaScript. I’m passionate about creating responsive, interactive, and visually appealing websites that deliver exceptional user experiences.
+I'm Chijioke Nwabasili, a Front-end Web Developer based in Nigeria with a solid foundation in HTML, CSS, and a growing expertise in JavaScript. I’m passionate about creating responsive, interactive, and visually appealing websites that deliver exceptional user experiences.
 
 I prioritize writing clean, maintainable code while adhering to modern design principles to craft functional and engaging digital solutions. Currently, I’m expanding my JavaScript skills through structured learning and hands-on projects at <a href="https://www.linkedin.com/company/dotcampus-co">Dot Campus</a>. My goal is to become a proficient developer, contribute to impactful projects, and collaborate with others to build meaningful digital experiences.
 
