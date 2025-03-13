@@ -10,7 +10,7 @@ I prioritize writing clean, maintainable code while adhering to modern design pr
 
 Beyond technical skills, I'm dedicated to sharing knowledge, delivering value, and fostering meaningful relationships that drive continuous growth and learning in all aspects of life.
 
-## Technologies & Tools:
+## Tech Stack:
 
 **Programming Languages:**
  
