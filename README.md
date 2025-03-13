@@ -1,4 +1,4 @@
-# Hello 👋
+# Hello👋
 
 Welcome to my GitHub profile! This is an expanse where I showcase my coding journey and projects.
 
