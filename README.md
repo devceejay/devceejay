@@ -10,7 +10,7 @@ I’m Chijioke Nwabasili, a Front-End Web Developer with a keen eye for design a
 
 My goal is to become a proficient developer, contribute to impactful projects, and collaborate with others to build meaningful digital experiences.
 
-Beyond coding, I’m dedicated to sharing knowledge, delivering value, and fostering meaningful connections driving continuous growth and learning in both tech and life.
+Beyond coding, I’m dedicated to sharing knowledge, delivering value, and fostering meaningful connections driving continuous growth and learning.
 
 ## Tech Stack:
 
