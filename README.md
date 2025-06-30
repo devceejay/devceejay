@@ -10,7 +10,7 @@ Right now, I'm deepening my JavaScript skills to create more interactive and dyn
 
 I value continuous learning, clean code, and practical collaboration. I'm also committed to sharing knowledge and building digital solutions that deliver real value, both for users and the communities I'm part of.
 
-## What I build
+## What I build:
 
 - Responsive, multi-section websites with modern layouts
 - Real-world brand concept projects (childcare, logistics, skincare, and more)
@@ -34,7 +34,7 @@ I value continuous learning, clean code, and practical collaboration. I'm also c
 
 ## Currently
 
-- Strengthening my JavaScript skills through real-world mini projects
+- Strengthening my JavaScript skills through real-world concept projects
 - Exploring how to bring AI-driven features into frontend projects like smart recommendations, simple chatbots, and adaptive UI elements to create richer, more interactive user experiences.
 
 ## 📌 Featured projects
@@ -48,7 +48,7 @@ Here are a few of my brand concept websites (built with HTML, CSS & JavaScript):
 
 *(Click each repo below to see details and live demos.)*
 
-## 📫 Let's Connect
+## Let's Connect
 
 - Portfolio: [View my portfolio](https://chijioke-nwabasili.vercel.app)
 - LinkedIn: [Chijioke Nwabasili](https://linkedin.com/in/chijioke-nwabasili)
