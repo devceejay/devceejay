@@ -8,7 +8,7 @@ I'm Chijioke Nwabasili, a **Front-End Web Developer** with a solid foundation in
 
 Right now, I'm deepening my JavaScript skills to create more interactive and dynamic web experiences.
 
-I value continuous learning, clean code, and practical collaboration. I'm also committed to sharing knowledge and building digital solutions that deliver real value, both for users and the communities I'm part of.
+I value continuous learning and practical collaboration. I'm also committed to building digital solutions that deliver real value for users.
 
 ## What I build:
 
