@@ -41,10 +41,10 @@ I value continuous learning, clean code, and practical collaboration. I'm also c
 
 Here are a few of my brand concept websites (built with HTML, CSS & JavaScript):
 
-- **NurtureNest** – Modern site for a fictional childcare brand  
-- **HelioCore Solutions** – Corporate-style concept website for a solar energy company 
-- **DibaGlow** – Elegant website concept for a medical spa   
-- **NexPort Logistics** – Clean, professional logistics company site
+- **NurtureNest** - Modern site for a fictional childcare brand  
+- **HelioCore Solutions** - Corporate-style concept website for a solar energy company 
+- **DibaGlow** - Elegant website concept for a medical spa   
+- **NexPort Logistics** - Clean, professional logistics company site
 
 *(Click each repo below to see details and live demos.)*
 
