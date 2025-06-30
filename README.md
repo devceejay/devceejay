@@ -50,7 +50,7 @@ Here are a few of my brand concept websites (built with HTML, CSS & JavaScript):
 
 ## Let's Connect
 
-- Portfolio: [View my portfolio](https://chijioke-nwabasili.vercel.app)
+- Portfolio: [chijioke-nwabasili.vercel.app](https://chijioke-nwabasili.vercel.app)
 - LinkedIn: [Chijioke Nwabasili](https://linkedin.com/in/chijioke-nwabasili)
 - Email: [Email Me](mailto:chijioke.nwabasili2021@gmail.com)
 
