@@ -13,7 +13,7 @@ I value continuous learning and practical collaboration. I'm also committed to b
 ## What I build:
 
 - Responsive, multi-section websites with modern layouts
-- Real-world brand concept projects (childcare, logistics, skincare, and more)
+- Real-world brand concept projects (childcare, skincare, and more)
 - Email templates and UI components
 - Projects that look good **and** perform well across devices
 
@@ -43,7 +43,6 @@ Here are a few of my brand concept websites (built with HTML, CSS & JavaScript):
 - **NurtureNest** - Modern site for a fictional childcare brand  
 - **HelioCore Solutions** - Corporate-style concept website for a solar energy company 
 - **DibaGlow** - Elegant website concept for a medical spa   
-- **NexPort Logistics** - Clean, professional logistics company site
 
 *(Click each repo below to see details and live demos.)*
 
