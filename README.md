@@ -10,7 +10,7 @@ Right now, I'm deepening my JavaScript skills to create more interactive and dyn
 
 I value continuous learning and practical collaboration. I'm also committed to building digital solutions that deliver real value for users.
 
-## 🔨 Tech Stack
+## 🔧 Tech Stack
 
 **Languages:**
 
