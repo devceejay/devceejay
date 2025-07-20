@@ -6,11 +6,11 @@ Welcome to my GitHub profile! This is an expanse where I showcase my coding jour
 
 I'm Chijioke Nwabasili, a **Frontend Web Developer** with proficiency in **HTML**, **CSS**, and growing expertise in **JavaScript**. I build responsive, user-friendly web interfaces with a focus on clean design, performance, and usability.
 
-Right now, I'm deepening my JavaScript skills to create more interactive and dynamic web experiences.
+Right now, I'm sharpening my JavaScript skills to create more interactive and dynamic web experiences.
 
 I value continuous learning and practical collaboration. I'm also committed to building digital solutions that deliver real value for users.
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Languages:**
 
@@ -25,7 +25,7 @@ I value continuous learning and practical collaboration. I'm also committed to b
 
 ## Currently
 
-- Strengthening my skills in JavaScript
+- Sharpening my skills in JavaScript
 - Exploring how to bring AI-driven features into frontend projects like smart recommendations, simple chatbots, and adaptive UI elements to create richer, more interactive user experiences.
 
 ## Let's Connect
