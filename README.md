@@ -26,6 +26,7 @@ I value continuous learning and practical collaboration. I'm also committed to b
 ## Currently
 
 - Sharpening my skills in JavaScript
+- Exploring modern frontend tools and workflows to create efficient, maintainable solutions.
 - Exploring how to bring AI-driven features into frontend projects like smart recommendations, simple chatbots, and adaptive UI elements to create richer, more interactive user experiences.
 
 ## Let's Connect
