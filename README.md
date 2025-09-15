@@ -31,7 +31,7 @@ I value continuous learning and practical collaboration. I'm also committed to b
 
 ## Let's Connect
 
-- Portfolio: [chijioke-nwabasili.vercel.app](https://chijiokenwabasili.vercel.app)
+- Portfolio: [chijiokenwabasili.vercel.app](https://chijiokenwabasili.vercel.app)
 - LinkedIn: [Chijioke Nwabasili](https://linkedin.com/in/chijioke-nwabasili)
 - Email: [Email Me](mailto:chijioke.nwabasili2021@gmail.com)
 
